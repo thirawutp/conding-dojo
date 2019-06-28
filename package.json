@@ -1,0 +1,13 @@
+{
+  "name": "dojo-by-lunar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test:q1": "nodemon main_test.py",
+    "test:q2": "nodemon extra_test.py"
+  },
+  "dependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
